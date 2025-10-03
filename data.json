@@ -1,0 +1,17 @@
+{
+    "users": {
+        "guest": {
+            "monthly_income": 0,
+            "savings_mode": {
+                "type": "Custom",
+                "target": 0
+            },
+            "expenses": [],
+            "goals": [],
+            "points": 14,
+            "streak": 2,
+            "last_under_budget_date": "2025-10-03",
+            "signup_date": "2025-10-02"
+        }
+    }
+}
